@@ -1,0 +1,4 @@
+D:\program\RevitProgramming\Debug\HelloWorld.dll
+D:\program\RevitProgramming\Debug\HelloWorld.pdb
+D:\program\RevitProgramming\src\HelloWorld\obj\Debug\HelloWorld.dll
+D:\program\RevitProgramming\src\HelloWorld\obj\Debug\HelloWorld.pdb

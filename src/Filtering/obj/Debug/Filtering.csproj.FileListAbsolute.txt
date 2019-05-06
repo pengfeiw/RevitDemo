@@ -1,0 +1,4 @@
+D:\program\RevitProgramming\Debug\Filtering.dll
+D:\program\RevitProgramming\Debug\Filtering.pdb
+D:\program\RevitProgramming\src\Filtering\obj\Debug\Filtering.dll
+D:\program\RevitProgramming\src\Filtering\obj\Debug\Filtering.pdb

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogBoxShowingEvent", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ribbon", "..\Ribbon\Ribbon.csproj", "{651ADD8F-C73D-4C44-B164-43F80ADD9D44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filtering", "..\Filtering\Filtering.csproj", "{026F4C09-C8FF-4171-B4B7-35AC0837DF33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,12 @@ Global
 		{651ADD8F-C73D-4C44-B164-43F80ADD9D44}.Release|Any CPU.Build.0 = Release|Any CPU
 		{651ADD8F-C73D-4C44-B164-43F80ADD9D44}.Release|x86.ActiveCfg = Release|x86
 		{651ADD8F-C73D-4C44-B164-43F80ADD9D44}.Release|x86.Build.0 = Release|x86
+		{026F4C09-C8FF-4171-B4B7-35AC0837DF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026F4C09-C8FF-4171-B4B7-35AC0837DF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026F4C09-C8FF-4171-B4B7-35AC0837DF33}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{026F4C09-C8FF-4171-B4B7-35AC0837DF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026F4C09-C8FF-4171-B4B7-35AC0837DF33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026F4C09-C8FF-4171-B4B7-35AC0837DF33}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
